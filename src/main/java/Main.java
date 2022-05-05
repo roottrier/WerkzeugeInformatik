@@ -1,5 +1,5 @@
 public class Main {
-// Noch ein Kommentar
+// Das ist ein Kommentar
     public static void main(String[] args) {
         Factory factory = new Factory();
 
@@ -9,6 +9,9 @@ public class Main {
 
         factory.buildCar(car1);
         factory.buildCar(car2);
+
+	factory.buildCar(car2);	
+
     }
 }
 
