@@ -1,5 +1,5 @@
 public class Main {
-
+// Das ist ein Kommentar
     public static void main(String[] args) {
         Factory factory = new Factory();
 
